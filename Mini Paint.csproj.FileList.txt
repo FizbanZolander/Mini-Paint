@@ -1,0 +1,8 @@
+obj\Release\Mini Paint.exe
+obj\Release\Mini Paint.pdb
+bin\Release\Mini Paint.exe
+bin\Release\Mini Paint.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Mini_Paint.frmMiniPaint.resources
+obj\Release\Mini_Paint.Properties.Resources.resources
+obj\Release\Mini Paint.csproj.GenerateResource.Cache
